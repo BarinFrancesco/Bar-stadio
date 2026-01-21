@@ -1,0 +1,15 @@
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.csproj.AssemblyReference.cache
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.AssemblyInfoInputs.cache
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.AssemblyInfo.cs
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.csproj.CoreCompileInputs.cache
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\bin\Debug\net7.0\SalamellazTask.exe
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\bin\Debug\net7.0\SalamellazTask.deps.json
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\bin\Debug\net7.0\SalamellazTask.runtimeconfig.json
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\bin\Debug\net7.0\SalamellazTask.dll
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\bin\Debug\net7.0\SalamellazTask.pdb
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.dll
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\refint\SalamellazTask.dll
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.pdb
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.genruntimeconfig.cache
+C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\ref\SalamellazTask.dll
