@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SalamellazTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d2dac354b71f207fd1c8cf897c8f5b7e82246d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SalamellazTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SalamellazTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

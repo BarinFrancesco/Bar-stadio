@@ -8,22 +8,23 @@ namespace SalamellazTask
 {
     public  class Barista
     {
-        Random generatore;
-        public bool Chiuso;
-        public Barista()
+        SemaphoreSlim ClientiDentro;
+        public bool Chiude;
+
+        public Barista(SemaphoreSlim ClientiDentro)
         {
-            generatore = new Random();
+            Chiude = false;
+            this.ClientiDentro = ClientiDentro;
         }
 
 
         public async void Aspetta()
         {
-            int tempo = generatore.Next(1, 15);
-            tempo *= 1000;
+            int tempo = Random.Shared.Next(1, 15) * 1000;
 
             await Task.Delay(tempo);
-            
 
+            Chiude = true;
         }
 
     }

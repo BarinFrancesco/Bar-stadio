@@ -13,3 +13,18 @@ C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0
 C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.pdb
 C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.genruntimeconfig.cache
 C:\Users\12999355\Desktop\compiti\SalamellazTask\SalamellazTask\obj\Debug\net7.0\ref\SalamellazTask.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\bin\Debug\net7.0\SalamellazTask.exe
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\bin\Debug\net7.0\SalamellazTask.deps.json
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\bin\Debug\net7.0\SalamellazTask.runtimeconfig.json
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\bin\Debug\net7.0\SalamellazTask.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\bin\Debug\net7.0\SalamellazTask.pdb
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.GeneratedMSBuildEditorConfig.editorconfig
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.AssemblyInfoInputs.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.AssemblyInfo.cs
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.csproj.CoreCompileInputs.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.sourcelink.json
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\obj\Debug\net7.0\refint\SalamellazTask.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.pdb
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\obj\Debug\net7.0\SalamellazTask.genruntimeconfig.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\Bar-stadio\SalamellazTask\SalamellazTask\obj\Debug\net7.0\ref\SalamellazTask.dll
